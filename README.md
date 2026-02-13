@@ -18,3 +18,11 @@ Infrastructure project using Terraform, Docker, Kubernetes, Ansible and CI/CD.
 ```bash
 docker build -t app .
 docker run -p 8000:8000 app
+
+CI/CD
+
+Runs on every push.
+
+Author
+
+Eldos Kubatov
